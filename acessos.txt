@@ -1,0 +1,6 @@
+wmwareplayer
+ubuntu_16.04_64
+genoma
+genoma17
+
+
